@@ -1,0 +1,46 @@
+*{
+padding: 10px;
+margin: 0;
+}
+
+nav{
+	background-color: aqua;
+	height: 80px;
+	padding-top: 0;
+	margin-top: 0;
+}
+
+ul li{
+	float: left;
+	list-style-type: none;
+}
+.anisa{
+	background-image: url(image3.jfif);
+	background-size: cover ;
+	background-position: center;
+	font-family: sans-serif;
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 450px;
+}
+.logo{
+	height: 60px;
+	width: 60px;
+	float: right;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	background-color: blue;
+	color: #fff;
+}
+.footer{
+	background-color: black;
+	height: 100px;
+}
+span{
+	color: white;
+	float: right;
+	margin-right: 30px;
+}
